@@ -1,8 +1,0 @@
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\bin\Debug\netcoreapp3.0\SpecsForExample.Domain.deps.json
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\bin\Debug\netcoreapp3.0\SpecsForExample.Domain.dll
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\bin\Debug\netcoreapp3.0\SpecsForExample.Domain.pdb
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\obj\Debug\netcoreapp3.0\SpecsForExample.Domain.csprojAssemblyReference.cache
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\obj\Debug\netcoreapp3.0\SpecsForExample.Domain.AssemblyInfoInputs.cache
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\obj\Debug\netcoreapp3.0\SpecsForExample.Domain.AssemblyInfo.cs
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\obj\Debug\netcoreapp3.0\SpecsForExample.Domain.dll
-C:\Users\lvyyl\Documents\git\SpecsForExample\SpecsForExample.Domain\obj\Debug\netcoreapp3.0\SpecsForExample.Domain.pdb
