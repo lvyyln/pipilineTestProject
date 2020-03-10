@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e158ff6f-e6d3-4087-8a0c-629bf784371d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpecsForExample" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SpecsForExample.Tests/CarSpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpecsForExample.Domain/Car.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpecsForExample.Domain/Engine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpecsForExample.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/SpecsForExample.Tests/Class1.cs" />
+        <option value="$PROJECT_DIR$/SpecsForExample.Domain/Car.cs" />
+        <option value="$PROJECT_DIR$/SpecsForExample.Domain/Engine.cs" />
+        <option value="$PROJECT_DIR$/SpecsForExample.Tests/CarSpecs.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuAaJ5g6StNamqTqBhqkjIWeaU" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e158ff6f-e6d3-4087-8a0c-629bf784371d" name="Default Changelist" comment="" />
+      <created>1583782167092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583782167092</updated>
+      <workItem from="1583782168360" duration="633000" />
+      <workItem from="1583782854931" duration="85000" />
+      <workItem from="1583830080611" duration="548000" />
+      <workItem from="1583830679896" duration="98000" />
+      <workItem from="1583830799449" duration="178000" />
+      <workItem from="1583831000012" duration="340000" />
+      <workItem from="1583832022339" duration="326000" />
+      <workItem from="1583833516046" duration="235000" />
+      <workItem from="1583833910490" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="234" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="5" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="5" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="9" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="5" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="9" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="5" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="9" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="15" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="361" y="149" key="Rider.ProjectTemplateDialog.Size" timestamp="1583782219007">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="149" key="Rider.ProjectTemplateDialog.Size/0.0.1536.834@0.0.1536.834" timestamp="1583782219007" />
+    <state x="-1574" y="76" key="SettingsEditor" timestamp="1583830740413">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state x="-1574" y="76" key="SettingsEditor/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583830740413" />
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1583782943550" />
+  </component>
+</project>
