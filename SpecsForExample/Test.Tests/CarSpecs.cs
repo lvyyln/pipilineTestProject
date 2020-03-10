@@ -24,7 +24,7 @@ namespace Test.Tests
             [Test]
             public void then_the_car_is_stopped()
             {
-                SUT.IsStopped.ShouldBeTrue();
+                SUT.IsStopped.ShouldBeFalse();
             }
 
             [Test]

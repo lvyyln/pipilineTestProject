@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\lvyyl\\Documents\\git\\Test\\Test.Domain\\Test.Domain.csproj",
+    "projectUniqueName": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\Test.Domain.csproj",
     "projectName": "Test.Domain",
-    "projectPath": "C:\\Users\\lvyyl\\Documents\\git\\Test\\Test.Domain\\Test.Domain.csproj",
-    "outputPath": "C:\\Users\\lvyyl\\Documents\\git\\Test\\Test.Domain\\obj\\",
+    "projectPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\Test.Domain.csproj",
+    "outputPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
