@@ -28,11 +28,12 @@ steps:
 - task: DotNetCoreCLI@1
   inputs:
     command: 'build'
-    projects: '**/*.csproj'
+    projects: '**/*.sln'
     
 - task: DotNetCoreCLI@2
   inputs:
     command: 'test'
     configuration: '$(buildConfiguration)'
+    projects: '**/*.csproj'
 
 
