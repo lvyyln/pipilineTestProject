@@ -1,40 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="457c4dff-7864-4634-a738-f024b750b9b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Domain/obj/Debug/netcoreapp3.0/Test.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Domain/obj/Debug/netcoreapp3.0/Test.Domain.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Domain/obj/Debug/netcoreapp3.0/Test.Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Domain/obj/Debug/netcoreapp3.0/Test.Domain.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Domain/obj/Test.Domain.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Domain/obj/Test.Domain.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Domain/obj/Test.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Domain/obj/Test.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Domain/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Domain/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/CarSpecs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/CarSpecs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/bin/Debug/netcoreapp3.0/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/bin/Debug/netcoreapp3.0/nunit_random_seed.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/obj/Debug/netcoreapp3.0/Test.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/obj/Debug/netcoreapp3.0/Test.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/obj/Debug/netcoreapp3.0/Test.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/obj/Debug/netcoreapp3.0/Test.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/obj/Test.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/obj/Test.Tests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/obj/Test.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/obj/Test.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Test.Tests/obj/project.packagespec.json" afterDir="false" />
-    </list>
+    <list default="true" id="457c4dff-7864-4634-a738-f024b750b9b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Test.Tests/CarSpecs.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Test.Domain/Car.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Test.Domain/Engine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71970641-5FCA-4085-BF89-35A199B38E31/53/5994d3a5/SpecsFor`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Test.Domain/CarFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Test.Tests/CarFactorySpecs.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,7 +54,7 @@
       <updated>1583833987986</updated>
       <workItem from="1583833990446" duration="2000000" />
       <workItem from="1583865465310" duration="646000" />
-      <workItem from="1583914629308" duration="27000" />
+      <workItem from="1583912520178" duration="649000" />
     </task>
     <servers />
   </component>

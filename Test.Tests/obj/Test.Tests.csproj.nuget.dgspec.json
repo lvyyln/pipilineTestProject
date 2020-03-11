@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Tests\\Test.Tests.csproj": {}
+    "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Tests\\Test.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\Test.Domain.csproj": {
+    "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Domain\\Test.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\Test.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Domain\\Test.Domain.csproj",
         "projectName": "Test.Domain",
-        "projectPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\Test.Domain.csproj",
+        "projectPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Domain\\Test.Domain.csproj",
         "packagesPath": "C:\\Users\\lvyyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\obj\\",
+        "outputPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Tests\\Test.Tests.csproj": {
+    "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Tests\\Test.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Tests\\Test.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Tests\\Test.Tests.csproj",
         "projectName": "Test.Tests",
-        "projectPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Tests\\Test.Tests.csproj",
+        "projectPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Tests\\Test.Tests.csproj",
         "packagesPath": "C:\\Users\\lvyyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Tests\\obj\\",
+        "outputPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\Test.Domain.csproj": {
-                "projectPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\SpecsForExample\\Test.Domain\\Test.Domain.csproj"
+              "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Domain\\Test.Domain.csproj": {
+                "projectPath": "C:\\Users\\lvyyl\\Documents\\pipilineTestProject\\Test.Domain\\Test.Domain.csproj"
               }
             }
           }
