@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="457c4dff-7864-4634-a738-f024b750b9b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Test.Tests/CarFactorySpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Test.Domain/Car.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Test.Tests/CarSpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Test.Domain/Engine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71970641-5FCA-4085-BF89-35A199B38E31/53/5994d3a5/SpecsFor`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Test.Domain/CarFactory.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test.Tests/Class1.cs" />
+        <option value="$PROJECT_DIR$/Test.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/Test.Domain/Car.cs" />
+        <option value="$PROJECT_DIR$/Test.Domain/Engine.cs" />
+        <option value="$PROJECT_DIR$/Test.Domain/CarFactory.cs" />
+        <option value="$PROJECT_DIR$/Test.Tests/CarFactorySpecs.cs" />
+        <option value="$PROJECT_DIR$/Test.Tests/CarSpecs.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvrcTK1JsIkWrTawCHkrGQwwEd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="457c4dff-7864-4634-a738-f024b750b9b9" name="Default Changelist" comment="" />
+      <created>1583833987986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583833987986</updated>
+      <workItem from="1583833990446" duration="2000000" />
+      <workItem from="1583865465310" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1583840203751">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203751" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1583840203751">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203751" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1583840203751">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203751" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1583840203751">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203751" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1583840203751">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203751" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.3.center" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.center/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.3.left" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.left/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.3.right" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.right/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.4.bottom" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.bottom/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.4.center" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.center/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.4.left" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.left/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state width="1877" height="352" key="GridCell.Tab.4.right" timestamp="1583840203752">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.right/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583840203752" />
+    <state x="-1469" y="190" key="Rider.ProjectTemplateDialog.Size" timestamp="1583834094159">
+      <screen x="-1920" y="2" width="1920" height="1050" />
+    </state>
+    <state x="-1469" y="190" key="Rider.ProjectTemplateDialog.Size/0.0.1536.834/-1920.2.1920.1050@-1920.2.1920.1050" timestamp="1583834094159" />
+  </component>
+</project>
