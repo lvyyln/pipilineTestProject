@@ -12,6 +12,14 @@ namespace Test.Domain
             IsStopped = true;
         }
 
+        public object GetCar()
+        {
+            return new
+            {
+                this.Engine,
+                this.IsStopped
+            };
+        }
         public void Start()
         {
             Engine.Start();

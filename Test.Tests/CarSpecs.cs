@@ -20,6 +20,12 @@ namespace Test.Tests
                 //When a car is stopped
                 SUT.Stop();
             }
+            
+            [Test]
+            public void then_the_car_is()
+            {
+                SUT.GetCar().ShouldNotBeNull();
+            }
 
             [Test]
             public void then_the_car_is_stopped()
